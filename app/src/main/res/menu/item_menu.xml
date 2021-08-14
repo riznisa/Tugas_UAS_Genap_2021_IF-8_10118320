@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kota_bandung"
+        android:icon="@drawable/icon_maps"
+        android:title="Rabbit n/Town"/>
+
+    <item
+        android:id="@+id/kabupaten_bandung"
+        android:icon="@drawable/icon_maps"
+        android:title="Tahura"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/kabupaten_bandung_barat"
+        android:icon="@drawable/icon_maps"
+        android:title="Kabupaten Bandung Barat"/>
+
+
+</menu>

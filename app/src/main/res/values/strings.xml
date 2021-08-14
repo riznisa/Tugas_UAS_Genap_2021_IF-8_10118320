@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UAS_10118320_IF8</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul_fragment2">
+        Dengan Wisata Berbeda dari yang Lain</string>
+    <string name="tvDescSlide3">
+        Tunggu Apalagi? klik Tombol Dibawah Ini</string>
+    <string name="title_activity_maps_wisata1">Map</string>
+    <string name="title_activity_maps_wisata2">Map</string>
+    <string name="title_activity_maps_wisata3">MapsWisata3Activity</string>
+    <string name="title_activity_maps_wisata4">MapsWisata4Activity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDpaMWZyVQtDIj7mv14iO35XqYZhWo5OPQ
+    </string>
+</resources>

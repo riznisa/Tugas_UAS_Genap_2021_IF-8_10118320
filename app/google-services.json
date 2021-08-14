@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186015062863",
+    "project_id": "wisatadb",
+    "storage_bucket": "wisatadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186015062863:android:a1994f308855eef41c433a",
+        "android_client_info": {
+          "package_name": "com.latihan.uas_10118320_if8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186015062863-8sq306q6tic3ckk6439uj6bonarvv0kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4mQevhaVMewQkO2LDtvndFK3H_PGL4oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186015062863-8sq306q6tic3ckk6439uj6bonarvv0kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
